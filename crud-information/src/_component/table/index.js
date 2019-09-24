@@ -156,7 +156,7 @@ export default class Table extends Component {
         }
 
         return <> {/* <React.Fragment> */}
-            <h1>CRUD information</h1>
+            <h1 className='crud'>CRUD information</h1>
             <table>
                 <Header
                     columns={columns}

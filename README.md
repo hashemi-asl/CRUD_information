@@ -3,7 +3,7 @@
 
 Sort-able table
  
-![GitHub CRUD-information](./images/CRUD1.GIF)
+![GitHub CRUD-information](.crud-information/images/CRUD1.GIF)
 
 ![GitHub CRUD-information](./images/CRUD2.GIF)
 
